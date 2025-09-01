@@ -609,7 +609,3 @@ Here is a list of certificates I have obtained, sorted by category. Each certifi
 
 - Belum ada sertifikat di kategori ini.
 
-## __pycache__
-
-- Belum ada sertifikat di kategori ini.
-
