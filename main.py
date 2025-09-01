@@ -1,4 +1,0 @@
-from organize_certificate import organize_certificates
-organize_certificates()
-from readme_generator import generate_readme_with_links
-generate_readme_with_links()

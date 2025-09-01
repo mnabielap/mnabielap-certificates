@@ -214,3 +214,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+main.py
+organize_certificate.py
+readme_generator.py
