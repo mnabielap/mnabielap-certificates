@@ -13,10 +13,10 @@ CATEGORIES = {
     "6. Database": ['sql', 'mysql', 'postgresql', 'mongodb', 'database'],
     "7. Cybersecurity": ['ethical hacking', 'cyber security', 'penetration testing'],
     "5. Core Programming & CS Fundamentals": ['java', 'python', 'c++', ' c ', 'c#', 'rust', 'ruby', ' go ', 'golang', 'algorithms', 'data structures', 'clean code', 'design patterns', 'solid principles', 'oop', 'testing'],
-    "8. Tools & Lainnya": ['git', 'excel', 'postman', 'figma', 'wordpress']
+    "8. Tools & Others": ['git', 'excel', 'postman', 'figma', 'wordpress']
 }
 
-UNCATEGORIZED_DIR_NAME = "9. Lainnya (Uncategorized)"
+UNCATEGORIZED_DIR_NAME = "9. Others (Uncategorized)"
 
 def organize_certificates():
     """
