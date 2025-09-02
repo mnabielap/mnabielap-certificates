@@ -398,6 +398,7 @@ Here is a list of certificates I have obtained, sorted by category. Each certifi
 - [Google Cloud Platform (GCP) Fundamentals for Beginners Udemy](./4.%20DevOps%20%26%20Cloud/Google%20Cloud%20Platform%20%28GCP%29%20Fundamentals%20for%20Beginners%20Udemy.pdf)
 - [Introduction to AWS Understand AWS basics in 3 hours!](./4.%20DevOps%20%26%20Cloud/Introduction%20to%20AWS%20Understand%20AWS%20basics%20in%203%20hours%21.pdf)
 - [Introduction to Google Cloud Platform Great Learning](./4.%20DevOps%20%26%20Cloud/Introduction%20to%20Google%20Cloud%20Platform%20Great%20Learning.pdf)
+- [Kubernetes Masterclass for Beginners Udemy](./4.%20DevOps%20%26%20Cloud/Kubernetes%20Masterclass%20for%20Beginners%20Udemy.pdf)
 - [The Ultimate DevOps Bootcamp](./4.%20DevOps%20%26%20Cloud/The%20Ultimate%20DevOps%20Bootcamp.pdf)
 - [[NEW] Building Microservices with Spring Boot & Spring Cloud Udemy](./4.%20DevOps%20%26%20Cloud/%5BNEW%5D%20Building%20Microservices%20with%20Spring%20Boot%20%26%20Spring%20Cloud%20Udemy.pdf)
 
