@@ -69,6 +69,7 @@ Here is a list of certificates I have obtained, sorted by category. Each certifi
 - [RESTful API with Laravel Build a Real API with Laravel Udemy](./1.%20Web%20Development%20-%20Backend/RESTful%20API%20with%20Laravel%20Build%20a%20Real%20API%20with%20Laravel%20Udemy.pdf)
 - [React Js With Laravel Build Complete PWA Ecommerce Project Udemy](./1.%20Web%20Development%20-%20Backend/React%20Js%20With%20Laravel%20Build%20Complete%20PWA%20Ecommerce%20Project%20Udemy.pdf)
 - [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide Udemy](./1.%20Web%20Development%20-%20Backend/React%2C%20NodeJS%2C%20Express%20%26%20MongoDB%20-%20The%20MERN%20Fullstack%20Guide%20Udemy.pdf)
+- [Rest API Testing (Automation) from Scratch-Rest Assured Java Udemy](./1.%20Web%20Development%20-%20Backend/Rest%20API%20Testing%20%28Automation%29%20from%20Scratch-Rest%20Assured%20Java%20Udemy.pdf)
 - [Ruby on Rails 7 Essential Training Linkedin Learning](./1.%20Web%20Development%20-%20Backend/Ruby%20on%20Rails%207%20Essential%20Training%20Linkedin%20Learning.pdf)
 - [Ruby on Rails Foundations Udemy](./1.%20Web%20Development%20-%20Backend/Ruby%20on%20Rails%20Foundations%20Udemy.pdf)
 - [Ruby on Rails Learn 25+ gems and build a Startup MVP 2023 Udemy](./1.%20Web%20Development%20-%20Backend/Ruby%20on%20Rails%20Learn%2025%2B%20gems%20and%20build%20a%20Startup%20MVP%202023%20Udemy.pdf)
